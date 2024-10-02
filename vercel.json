@@ -1,8 +1,5 @@
 {
-  "rewrites": [
-    {
-      "source": "/openapi/(.*)",
-      "destination": "/api/proxy"
-    },
-  ]
+    "github": {
+        "silent": true
+    }
 }
