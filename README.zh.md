@@ -283,7 +283,7 @@ services:
 
 ### Vercel 一键部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ok5266/chatgpt-web-2.11.1&env=OPENAI_API_BASE_URL&env=OPENAI_API_KEY&project-name=chatgpt-web-2.11.1&repository-name=chatgpt-web-2.11.1)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ok5288/chatgpt-web-2.11.1&env=OPENAI_API_BASE_URL&env=OPENAI_API_KEY&project-name=chatgpt-web-2.11.1&repository-name=chatgpt-web-2.11.1)
 
 
 
