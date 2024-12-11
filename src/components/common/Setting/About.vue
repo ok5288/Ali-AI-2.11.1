@@ -45,19 +45,22 @@ onMounted(() => {
         Version - {{ pkg.version }}
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
-        <p>
+        <p style="text-align:justify;text-indent:2em;">
           {{ $t("setting.openSource") }}
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/Chanzhaoyu/chatgpt-web"
+            href="https://github.com/ok5266/AI-Chat"
             target="_blank"
           >
             GitHub
           </a>
-          {{ $t("setting.freeMIT") }}
+          ，{{ $t("setting.freeMIT") }}
         </p>
-        <p>
+        <p style="text-align:justify;text-indent:2em;">
           {{ $t("setting.stars") }}
+        </p>
+        <p style="text-align: right;">
+          {{ $t("setting.webinfo") }}(<a class="text-blue-600 dark:text-blue-500" href="http://www.ok5266.com" target="_blank">www.ok5266.com</a>)
         </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
