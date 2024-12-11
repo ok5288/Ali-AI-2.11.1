@@ -75,9 +75,10 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API Balance',
     monthlyUsage: 'Sử dụng hàng tháng',
-    openSource: 'Dự án này được mở nguồn tại',
-    freeMIT: 'miễn phí và dựa trên giấy phép MIT, không có bất kỳ hình thức hành vi trả phí nào!',
-    stars: 'Nếu bạn thấy dự án này hữu ích, vui lòng cho tôi một Star trên GitHub hoặc tài trợ một chút, cảm ơn bạn!',
+    openSource: 'Dự án này được công khai mã nguồn tại',
+    freeMIT: 'miễn phí và dựa trên giấy phép MIT, không có hình thức hành vi trả phí nào!',
+    stars: 'Nếu bạn thấy dự án này hữu ích, vui lòng nhấp vào một liên kết quảng cáo trên trang web này, cảm ơn bạn!',
+    webinfo: 'Edward Web World',
   },
   store: {
     siderButton: 'Prompt Store',
