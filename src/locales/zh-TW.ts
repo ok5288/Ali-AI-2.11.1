@@ -31,7 +31,7 @@ export default {
   chat: {
     newChatButton: '新增對話',
     newChatTitle: '新增對話',
-    placeholder: '來說點什麼...（Shift + Enter = 換行，"/" 觸發提示詞）',
+    placeholder: '我是Edward AI Pro，來說點什麼...（Shift + Enter = 換行，"/" 觸發提示詞）',
     placeholderMobile: '來說點什麼...',
     copy: '複製',
     copied: '複製成功',
@@ -76,9 +76,10 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API Credit 餘額',
     monthlyUsage: '本月使用量',
-    openSource: '此專案在此開源：',
-    freeMIT: '免費且基於 MIT 授權，沒有任何形式的付費行為！',
-    stars: '如果你覺得此專案對你有幫助，請在 GitHub 上給我一顆星，或者贊助我，謝謝！',
+    openSource: '此專案開源於',
+    freeMIT: '免費且基於 MIT 協議。信息由AI自動生成，請自行辨識真偽。Edward AI Chat 保證絕對沒有任何形式的付費或欺詐行為！',
+    stars: '如果您覺得此專案對您有幫助，請在本站點擊一則廣告，謝謝您的支持！',
+    webinfo: '愛德華網絡世界',
   },
   store: {
     siderButton: '提示詞商店',
