@@ -480,6 +480,21 @@ onUnmounted(() => {
                 <span>{{ t('chat.newChatTitle') }}</span>
               </div>
             </template>
+
+          <template v-if="!dataSources.length">
+          <div class="flex items-center justify-center" style="height: 50vh;">
+               <img src="../../../public/icon.svg" alt="Edward AI Chat" style="user-select: none; max-height: 90%;" oncontextmenu="return false;">
+          </div>
+
+            <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
+             <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
+              <span>Welcome to <strong>Edward AI Chat</strong>~</span>
+            </div>
+            <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
+              <span>{{ t('chat.newChatTitle') }}</span>
+            </div>
+          </template>
+						
             <template v-else>
               <div>
                 <Message
