@@ -76,7 +76,7 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API Credit 餘額',
     monthlyUsage: '本月使用量',
-		openSource: '此專案在此開源：',
+		openSource: '此專案開源於',
     freeMIT: '免費且基於 MIT 授權。資訊由AI自動生成，請自行辨識真偽。Edward AI Chat 保證絕對沒有任何形式的付費或欺詐行為！',
     stars: '如果您覺得此專案對您有幫助，請在本站點擊一則廣告，謝謝您的支持！',
     webinfo: '愛德華網絡世界',
