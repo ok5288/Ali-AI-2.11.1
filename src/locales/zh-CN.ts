@@ -31,7 +31,7 @@ export default {
   chat: {
     newChatButton: '新建聊天',
     newChatTitle: '新建聊天',
-    placeholder: '来说点什么吧...（Shift + Enter = 换行，"/" 触发提示词）',
+    placeholder: '我是Edward AI Chat，来说点什么吧...（Shift + Enter = 换行，"/" 触发提示词）',
     placeholderMobile: '来说点什么...',
     copy: '复制',
     copied: '复制成功',
@@ -76,9 +76,9 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API余额',
     monthlyUsage: '本月使用量',
-    openSource: '此项目开源于',
-    freeMIT: '免费且基于 MIT 协议，没有任何形式的付费行为',
-    stars: '如果你觉得此项目对你有帮助，请在 GitHub 上给我一个星星或者给予一点赞助，谢谢！',
+    freeMIT: '免费且基于 MIT 协议。信息由AI自动生成，请自行辨识真伪。Edward AI Chat 保证绝对没有任何形式的付费或欺诈行为!',
+    stars: '如果您觉得此项目对您有帮助，请在本站点击一则广告，谢谢您的支持！',
+    webinfo: '爱德华网络世界',
   },
   store: {
     siderButton: '提示词商店',
