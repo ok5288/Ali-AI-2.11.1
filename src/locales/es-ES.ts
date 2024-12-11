@@ -31,7 +31,7 @@ export default {
   chat: {
     newChatButton: 'Nueva conversación',
     newChatTitle: 'Nueva conversación',
-    placeholder: 'Pregúntame lo que sea...(Shift + Enter = salto de línea, "/" para activar avisos)',
+    placeholder: 'Este es el Edward AI Chat. Pregúntame lo que sea...(Shift + Enter = salto de línea, "/" para activar avisos)',
     placeholderMobile: 'Pregúntame lo que sea...',
     copy: 'Copiar',
     copied: 'Copiado',
@@ -76,8 +76,9 @@ export default {
     balance: 'Saldo de API',
     monthlyUsage: 'Uso mensual de API',
     openSource: 'Este proyecto es de código abierto en',
-    freeMIT: 'gratis y basado en la licencia MIT, ¡sin ningún tipo de comportamiento de pago!',
-    stars: 'Si encuentras este proyecto útil, por favor dame una Estrella en GitHub o da un pequeño patrocinio, ¡gracias!',
+    freeMIT: 'gratuito y basado en la licencia MIT, ¡sin ningún tipo de comportamiento de pago!',
+    stars: 'Si encuentras útil este proyecto, por favor haz clic en un enlace publicitario en este sitio web, ¡gracias!',
+    webinfo: 'Edward Web World',		
   },
   store: {
     siderButton: 'Tienda rápida',
