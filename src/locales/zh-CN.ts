@@ -76,6 +76,7 @@ export default {
     httpsProxy: 'HTTPS Proxy',
     balance: 'API余额',
     monthlyUsage: '本月使用量',
+		openSource: '此项目开源于',
     freeMIT: '免费且基于 MIT 协议。信息由AI自动生成，请自行辨识真伪。Edward AI Chat 保证绝对没有任何形式的付费或欺诈行为!',
     stars: '如果您觉得此项目对您有帮助，请在本站点击一则广告，谢谢您的支持！',
     webinfo: '爱德华网络世界',
